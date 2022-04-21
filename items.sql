@@ -1,0 +1,1 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES ('key1', 'Tarjeta de seguridad', '1', '0', '1');
